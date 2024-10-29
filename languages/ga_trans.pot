@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Analytics v1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-31 10:38+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andy Garcia\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\analytics\n"
+
+#: c:\analytics/analytics.php:213
+#: c:\analytics/analytics.php:221
+msgid "Changes were saved!"
+msgstr ""
+
+#: c:\analytics/analytics.php:238
+#: c:\analytics/analytics.php:327
+msgid "Analytics"
+msgstr ""
+
+#: c:\analytics/analytics.php:251
+msgid "Network-wide Tracking Code"
+msgstr ""
+
+#: c:\analytics/analytics.php:255
+msgid "Your Analytics tracking code. Ex: UA-XXXXX-X. The Network-wide tracking code will track your entire network of sub-sites."
+msgstr ""
+
+#: c:\analytics/analytics.php:260
+msgid "Admin pages tracking"
+msgstr ""
+
+#: c:\analytics/analytics.php:262
+#: c:\analytics/analytics.php:272
+#: c:\analytics/analytics.php:282
+#: c:\analytics/analytics.php:296
+#: c:\analytics/analytics.php:351
+msgid "Enable"
+msgstr ""
+
+#: c:\analytics/analytics.php:264
+#: c:\analytics/analytics.php:274
+#: c:\analytics/analytics.php:284
+#: c:\analytics/analytics.php:297
+#: c:\analytics/analytics.php:353
+msgid "Disable"
+msgstr ""
+
+#: c:\analytics/analytics.php:270
+msgid "Subdomain tracking"
+msgstr ""
+
+#: c:\analytics/analytics.php:280
+#: c:\analytics/analytics.php:349
+msgid "Page load times tracking"
+msgstr ""
+
+#: c:\analytics/analytics.php:292
+msgid "Analytics Supporter"
+msgstr ""
+
+#: c:\analytics/analytics.php:300
+msgid "Enable Analytics for supporter blogs only."
+msgstr ""
+
+#: c:\analytics/analytics.php:309
+#: c:\analytics/analytics.php:362
+msgid "Save Changes"
+msgstr ""
+
+#: c:\analytics/analytics.php:340
+msgid "Site Tracking Code"
+msgstr ""
+
+#: c:\analytics/analytics.php:344
+msgid "Your Analytics tracking code. Ex: UA-XXXXX-X. The Site tracking code will track this site."
+msgstr ""
+
+#: c:\analytics/analytics.php:367
+msgid "What's Analytics ?"
+msgstr ""
+
+#: c:\analytics/analytics.php:368
+msgid "Analytics is the enterprise-class web analytics solution that gives you rich insights into your website traffic and marketing effectiveness. Powerful, flexible and easy-to-use features now let you see and analyze your traffic data in an entirely new way. With Analytics, you're more prepared to write better-targeted ads, strengthen your marketing initiatives and create higher converting websites."
+msgstr ""
+
+#: c:\analytics/analytics.php:369
+msgid "How do I set this up ?"
+msgstr ""
+
+#: c:\analytics/analytics.php:370
+msgid "To get going, just <a href=\"http://www.google.com/analytics/sign_up.html\">sign up for Analytics</a>, set up a new account and copy the tracking code you receive (it'll start with \"UA-\") into the box above and press \"Save\" - it can take several hours before you see any stats, but once it is you've got access to one heck of a lot of data!"
+msgstr ""
+
+#: c:\analytics/analytics.php:371
+msgid "For more information on finding the tracking code, please visit <a href=\"http://www.google.com/support/analytics/bin/answer.py?hl=en&amp;answer=55603\">this Google help site</a>."
+msgstr ""
+
